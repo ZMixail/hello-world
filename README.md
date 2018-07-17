@@ -1,2 +1,3 @@
 # hello-world
-Just repository
+
+Hello! This is my new repository, which I made to tutorial!
